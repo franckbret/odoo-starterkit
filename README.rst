@@ -37,5 +37,6 @@ Init and run a project
 ----------------------
 
     ./bin/upgrade_openerp -d yourdatabase
+
     ./bin/start_openerp -d yourdatabase
 
